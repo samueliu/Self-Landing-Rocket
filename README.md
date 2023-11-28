@@ -4,6 +4,7 @@ Democratization of Self-Landing Rocketry Capstone repository
 The goal of this project is to provide research groups and hobbyists with an open source, drone motor, rocket build that they can copy and modify to implement control algorithms. This page contains details on the required materials and tools as well as build instructions.
 
 <img width="436" alt="Screenshot 2023-11-28 at 5 56 44 PM" src="https://github.com/samueliu/Self-Landing-Rocket/assets/151796773/e18f314b-079f-452b-893b-856840619189">
+[Untitled document.pdf](https://github.com/samueliu/Self-Landing-Rocket/files/13494228/Untitled.document.pdf)
 
 
 # Fabrication Techniques and Materials
