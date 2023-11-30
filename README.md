@@ -27,6 +27,9 @@ The parts that require CNC work include the legs as well as the battery holder. 
 A number of parts also required cutting to get parts down to the right size. The shafts holding the motors were cut using a dremel and the rocket tube was cut using an X acto knife. A part was also printed to help guide this X acto knife cut and can be found here (insert link to jabe part).
 
 Step 2: Circuit schematic
-(Insert Sam stuff)
+
+<img width="511" alt="Screenshot 2023-11-30 at 2 34 41 PM" src="https://github.com/samueliu/Self-Landing-Rocket/assets/151664858/97983e49-5ef1-41f6-8b25-743f2beb1a74">
+
+Above is the circuit schematic used in this project. A proto board was used for integrating all parts. All parts for the circuit build can be found here (insert link). 
 
 Step 3: Putting it all Together
