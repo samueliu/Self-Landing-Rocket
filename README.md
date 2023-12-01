@@ -1,7 +1,7 @@
 # Self-Landing-Rocket
 Democratization of Self-Landing Rocketry Capstone repository
 # Project Description
-The goal of this project is to provide research groups and hobbyists with an open source, drone motor, rocket build that they can copy and modify to implement control algorithms. This page contains details on the required materials and tools as well as build instructions.
+The goal of this project is to provide research groups and hobbyists with an open source, sub-scale, self-stabilizing model rocket platform that will unlock previously inaccessible low-budget research/experimentation of 'inverted pendulum' self-landing rockets. This page contains details on the required materials and tools as well as build instructions.
 
 <img width="436" alt="Screenshot 2023-11-28 at 5 56 44 PM" src="https://github.com/samueliu/Self-Landing-Rocket/assets/151796773/e18f314b-079f-452b-893b-856840619189">
 
@@ -20,11 +20,11 @@ There are three main components to this build. The first is machining, printing 
 
 Step 1: Machining, Printing and Cutting
 
-The parts to print are seperated into resin and FDM parts and can be found here(insert link to stls). The resin parts require higher fidelity; for example, the servo couplers which need to mate to a spline which has teeth size on the order of a single millimeter. The FDM parts are generally larger and require less fidelity. A lightweight material called (insert name of robbie material) was used with low infill to reduce the wieght of these larger parts. 
+The parts to print are seperated into resin and FDM parts and can be found under the rocket hardware folder. The majority of the custom components on the vehcile are 3D printed primarily using FDM (Fused Deposition Modeling) but a select few parts were printed on SLA (Stereolithography) 3D printers. The rationale for using the SLA 3D printers primarily revolves around the need for increased component resolution/tolerance. For example, the two pitch and roll servo couplers mate to the T15 servo spline which has 15 teeth size on the order of a single millimeter. For accessability and ease of manufacture, the majority of the remainder of the custom components were printed on a FDM 3D printer as they are generally larger and require less fidelity. A lightweight thermoplastic filament called LW-PLA from PloyMaker was used with low infill (15%) to reduce the wieght of these larger FDM parts. 
 
-The parts that require CNC work include the legs as well as the battery holder. In order to meet the stiffness requirements that would be neccesary from supporting the thrust mechanism as well as shock from landing, 3mm Carbon fiber was chosen as the material for the legs. A desktop CNC router was used to cut the parts to ensure accuracy. The settings used were (insert settings) and the CAD/CAM files can be found here (insert CAD/CAM files link).
+A few number of select parts require CNC machining (including the four landing gear legs and the battery holder) as these parts have strict sitffness/mass requirements which could only be satisfied by fiberglass or carbon fiber. In order to meet the stiffness requirements that would be neccesary from supporting the thrust mechanism as well as shock from landing, 3mm Carbon fiber was chosen as the material for the landing gear legs. A desktop CNC router (Shapeoko 4) was used to cut the parts. The feed/punge rate was set to approximately 400mm/s and 150mm/s with a 1/16" 4 flute burr endmill and the CAD/CAM files can be found here under the rocket hardware folder.
 
-A number of parts also required cutting to get parts down to the right size. The shafts holding the motors were cut using a dremel and the rocket tube was cut using an X acto knife. A part was also printed to help guide this X acto knife cut and can be found here (insert link to jabe part).
+A select number of components also required cutting/joining. The two carbon fiber shafts holding the motors were cut using a dremel and the rocket tube was cut using an X-acto knife. A part was also printed to help guide this X acto knife cut and can be found here (insert link to jabe part). Super glue was used to couple all 3D printed TVC parts to the respective carbon components except for joints experiencing large loads (carbon legs to rocket fuselage and carbon battery plate to nose cone) which were coupled using an off-the-shelf 5 minute epoxy.
 
 Step 2: Circuit schematic
 
