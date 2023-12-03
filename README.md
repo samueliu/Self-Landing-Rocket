@@ -34,4 +34,4 @@ Above is the circuit schematic used in this project. A proto board was used for 
 
 Step 3: Putting it all Together
 
-With all materials printed, machined and cut, as well as the electronics put together, the final step is to build the rocket. Provided are both an stl of the full build(insert link), as well as an instructional manual with step by step build instructions(insert link). 
+With all materials printed, machined and cut, as well as the electronics put together, the final step is to build the rocket. Provided are both an stl of the full build for easy reference(insert link), as well as an instructional manual with step by step build instructions(insert link). 
