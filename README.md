@@ -33,3 +33,5 @@ Step 2: Circuit schematic
 Above is the circuit schematic used in this project. A proto board was used for integrating all parts. All parts for the circuit build can be found here (insert link). 
 
 Step 3: Putting it all Together
+
+With all materials printed, machined and cut, as well as the electronics put together, the final step is to build the rocket. Provided are both an stl of the full build(insert link), as well as an instructional manual with step by step build instructions(insert link). 
