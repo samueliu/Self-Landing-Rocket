@@ -3,6 +3,9 @@ Democratization of Self-Landing Rocketry Capstone repository
 # Project Description
 The goal of this project is to provide research groups and hobbyists with an open source, sub-scale, self-stabilizing model rocket platform that will unlock previously inaccessible low-budget research/experimentation of 'inverted pendulum' self-landing rockets. This page contains details on the required materials and tools as well as build instructions.
 
+Check out our Youtube Video!
+https://m.youtube.com/watch?v=Z3JtFpSVZIc&feature=youtu.be 
+
 <img width="436" alt="Screenshot 2023-11-28 at 5 56 44 PM" src="https://github.com/samueliu/Self-Landing-Rocket/assets/151796773/e18f314b-079f-452b-893b-856840619189">
 
 # Fabrication Techniques and Materials
