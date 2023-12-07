@@ -1,3 +1,5 @@
+// The following code is a very basic skeleton code that initializes all sensors and allows simple data reading.
+
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BMP3XX.h>
