@@ -40,6 +40,8 @@ Step 3: Putting it all Together
 
 With all materials printed, machined and cut, as well as the electronics put together, the final step is to build the rocket. Provided are both an stl of the full build for easy reference, as well as an instructional manual with step by step build instructions. 
 
+# Assembly details and CAD files
+
 [Instruction Manual](Instruction_Manual.pdf)
 
 [Final Assembly Reference](https://cad.onshape.com/documents/38c71b9123422c3013c80387/w/ad7e7c668ee5186588dc29fc/e/67ed507e38b5f468f95fb797)
